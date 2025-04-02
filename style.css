@@ -46,6 +46,6 @@ top:60px;
 @media (max-width:768px){.col {width:70%;}}
 @media (max-width:480px){.col {width: 100%;}
 }
-@media (max-width:580px){img{width: 400px;
-height: 400px;
+@media (max-width:580px){img{width: 380px;
+height: 360px;
 border-radius: 10px;}}
